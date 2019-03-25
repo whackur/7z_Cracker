@@ -18,7 +18,7 @@ def check_argv():
         return True
     else:
         print("Usage : ")
-        print("7z_Cracker.py [Password Dictionary] [Encrypted 7z File]")
+        print("7z_cracker.py [Password Dictionary] [Encrypted 7z File]")
         exit(1)
 
 
@@ -43,7 +43,6 @@ def multi_crack():
     pool.join()
 
     end_time(my_started_time)
-    print("Couldn't found password...")
 
 if __name__ == '__main__':
     try_number = 0
