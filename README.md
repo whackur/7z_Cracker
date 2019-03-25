@@ -6,12 +6,11 @@
 
 
 ### 영상
-[영상 바로가기](https://youtu.be/p3dDJtCgYqk)
-
 [영상 재생목록 바로가기](https://www.youtube.com/playlist?list=PLa6DXUYWgfJZQwbQu0GJEtB8CFtjknwuv)
 
 
 ### 사용방법 (Usage)
+Python 3버전 이상에서 제대로 동작합니다.
 python 7z_cracker.py [Password Dictionary] [Encrypted 7z File]
 
 
