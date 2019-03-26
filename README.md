@@ -6,7 +6,12 @@
 
 유튜브 재생목록 [링크](https://www.youtube.com/playlist?list=PLa6DXUYWgfJZQwbQu0GJEtB8CFtjknwuv&fbclid=IwAR06e2S6vpPHQ5xG9XVqJNhVhQJStFJMc0jixjLhWjpRtSywN-kTNCPnAE0)
 
+### 영상
+[영상 재생목록 바로가기](https://www.youtube.com/playlist?list=PLa6DXUYWgfJZQwbQu0GJEtB8CFtjknwuv)
+
+
 ### 사용방법 (Usage)
+Python 3버전 이상에서 제대로 동작합니다.
 python 7z_cracker.py [Password Dictionary] [Encrypted 7z File]
 
 
