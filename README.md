@@ -4,7 +4,6 @@
 최종적으로 작성한 파일은 *7z_cracker.py* 입니다.
 실습을 따라하시고 *my_secret.7z* 파일의 암호를 풀어 비밀을 획득하세요.
 
-유튜브 재생목록 [링크](https://www.youtube.com/playlist?list=PLa6DXUYWgfJZQwbQu0GJEtB8CFtjknwuv&fbclid=IwAR06e2S6vpPHQ5xG9XVqJNhVhQJStFJMc0jixjLhWjpRtSywN-kTNCPnAE0)
 
 ### 영상
 [영상 재생목록 바로가기](https://www.youtube.com/playlist?list=PLa6DXUYWgfJZQwbQu0GJEtB8CFtjknwuv)
