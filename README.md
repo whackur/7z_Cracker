@@ -4,6 +4,7 @@
 최종적으로 작성한 파일은 *7z_cracker.py* 입니다.
 실습을 따라하시고 *my_secret.7z* 파일의 암호를 풀어 비밀을 획득하세요.
 
+유튜브 재생목록 [링크](https://www.youtube.com/playlist?list=PLa6DXUYWgfJZQwbQu0GJEtB8CFtjknwuv&fbclid=IwAR06e2S6vpPHQ5xG9XVqJNhVhQJStFJMc0jixjLhWjpRtSywN-kTNCPnAE0)
 
 ### 사용방법 (Usage)
 python 7z_cracker.py [Password Dictionary] [Encrypted 7z File]
@@ -11,5 +12,7 @@ python 7z_cracker.py [Password Dictionary] [Encrypted 7z File]
 
 ### 사전 파일 샘플 (Password dictionary sample files)
 화살표 뒤는 암호(password)
+
 a.simple => soccer
+
 b.my_secret.7z => tigers
